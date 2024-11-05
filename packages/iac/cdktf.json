@@ -1,0 +1,10 @@
+{
+  "language": "typescript",
+  "app": "npx ts-node main.ts",
+  "projectId": "6e7a7728-9fdb-4a44-abee-c40ffc24e04d",
+  "sendCrashReports": "false",
+  "terraformProviders": ["debg1h9dtx36a.cloudfront.net/yassir/hashicups"],
+  "terraformModules": [],
+  "context": {
+  }
+}

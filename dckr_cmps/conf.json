@@ -1,0 +1,5 @@
+{
+  "db_connection": "host=hashicups-database port=5432 user=hashicups password=hashicups_pwd dbname=products sslmode=disable",
+  "bind_address": ":9090",
+  "metrics_address": ":9102"
+}
