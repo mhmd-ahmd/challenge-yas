@@ -17,12 +17,14 @@ Welcome to the coffee ordering platform designed to grab coffee orders for devel
    ```
 2. Install dependencies
    ```sh
-   cd yassir-hashicups-platform-challenge
+   cd challenge-yas
    pnpm install
    ```
 3. To instanciate the Hashicups API locally, navigate to the `./docker_compose` directory and run the following command:
    ```sh
+   cd dckr_cmps
    sudo docker-compose up -d
+   cd ..
    ```
    This will start the Hashicups API. You can reach the frontend at http://localhost:3000
 4. Sign Up an authenticated user that will interact with the Hashicups API:
